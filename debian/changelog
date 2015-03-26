@@ -1,0 +1,5 @@
+ruby-hirb (0.7.3-1) trusty; urgency=medium
+
+  * Initial release for sensu-cli
+
+ -- Christoph Glaubitz (launchpad) <c.glaubitz@syseleven.de>  Thu, 26 Mar 2015 17:52:52 +0100
